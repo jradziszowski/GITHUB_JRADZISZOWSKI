@@ -1,0 +1,3 @@
+C:/Users/student/Desktop/GITHUB-JRADZISZOWSKI/cmake-build-debug/CMakeFiles/GITHUB_JRADZISZOWSKI.dir
+C:/Users/student/Desktop/GITHUB-JRADZISZOWSKI/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/student/Desktop/GITHUB-JRADZISZOWSKI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
